@@ -2,10 +2,6 @@
 #I am writing this to not change
 #i am writing to keep too may be not
 
-class removal():
-    pass
-def somefn():
-    pass
 
 def writing_an_other_fn():
     pass
