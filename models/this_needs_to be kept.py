@@ -9,6 +9,9 @@ def somefn():
 
 def writing_an_other_fn():
     pass
+
+def this_is_good():
+    pass
 #may be it was because of same line
 
 
