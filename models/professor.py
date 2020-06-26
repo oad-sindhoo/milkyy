@@ -1,0 +1,2 @@
+class professor():
+    pass
