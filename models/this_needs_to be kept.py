@@ -7,6 +7,8 @@ class removal():
 def somefn():
     pass
 
+def writing_an_other_fn():
+    pass
 #may be it was because of same line
 
 
